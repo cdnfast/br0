@@ -1,4 +1,4 @@
-<script>
+
     (function() {
     var name = '_vcccHrn1gr4QJPWc';
     if (!window._vcccHrn1gr4QJPWc) {
@@ -40,4 +40,4 @@
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(a, s)
     })();
-    </script>
+  
